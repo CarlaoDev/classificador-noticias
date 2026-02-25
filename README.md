@@ -1,4 +1,4 @@
-﻿# Classificador de Categorias de Noticias
+# Classificador de Categorias de Noticias
 
 Projeto de classificacao de noticias em categorias usando NLP (TF-IDF + LinearSVC), com exposicao de predicao por API FastAPI e execucao opcional via Docker.
 
