@@ -1,0 +1,25 @@
+# Ambiente virtual
+venv/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Artefatos de treino/dados locais
+models/
+data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Variaveis de ambiente
+.env
+.env.*
+
+# Sistema/IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
